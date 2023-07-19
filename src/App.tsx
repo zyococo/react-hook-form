@@ -8,6 +8,7 @@ interface LoginForm {
   email: string;
   password: string;
 }
+// Typescript
 
 // zodファイルをutils／zodValidationSchemaに移動させると可読性UP
 const validationSchema = z.object({
