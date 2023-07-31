@@ -8,4 +8,5 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     <App />
     {/* vite?????>main>App */}
   </React.StrictMode>
+  // 仮想DOM
 );
