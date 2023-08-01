@@ -9,4 +9,5 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     {/* vite?????>main>App */}
   </React.StrictMode>
   // 仮想DOM
+  // Merit of using React
 );
