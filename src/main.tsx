@@ -8,6 +8,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     <App />
     {/* vite?????>main>App */}
   </React.StrictMode>
-  // 仮想DOM
   // Merit of using React
+  // SPA&仮想DOM
+
 );
