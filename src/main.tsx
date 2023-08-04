@@ -11,5 +11,6 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   // Merit of using React
   // コンポーネント志向
   // SPA&仮想DOM
+  // React Hooks
 
 );
